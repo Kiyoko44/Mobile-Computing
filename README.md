@@ -1,5 +1,7 @@
 # Mobile-Computing
 This Smart Home project was completed for the Mobile Computing course CSE535 through ASU
+Not Uploaded files Part 1: Frontend UX development on Android studios.
+Uploaded files refer to Part 2: Backend for Smart Home App for Andriod users.
 
 # Notes for project files and functions
 imports both frameExtractor from frameextractor and
